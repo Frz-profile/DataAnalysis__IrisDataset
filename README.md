@@ -1,4 +1,4 @@
-# DataAnalysis__IrisDataset
+# Python-DataAnalysis-IrisDataset
 Basic Data Analysis on the Iris Dataset
 1. Brief introduction of the Iris dataset and its significance.
 2. Import Python required libraries (e.g. Pandas, Matplotlib, Seaborn).
